@@ -305,7 +305,7 @@ export default function CanvasEditor({
       } else if (resizingId && resizeCorner) {
         // Resizing based on corner
 
-        let { x: startX, y: startY, width: startW, height: startH } = initialRect;
+        const { x: startX, y: startY, width: startW, height: startH } = initialRect;
         let newX = startX;
         let newY = startY;
         let newWidth = startW;
