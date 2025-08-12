@@ -1,6 +1,3 @@
-# Image Text Composer
-
-![Demo Screenshot](./screenshot.png)
 
 ## Overview
 
@@ -8,7 +5,12 @@
 
 This project showcases advanced React state management, dynamic font loading from Google Fonts, canvas manipulation, undo/redo functionality, and responsive design.
 
+Feel free to check out the demo at [image-text-composer-nu.vercel.app](https://image-text-composer-nu.vercel.app) 🚀
 ---
+
+# Image Text Composer
+
+![Demo Screenshot](./screenshot.png)
 
 ## Features
 
